@@ -1,4 +1,4 @@
-update=Wed 05 Oct 2016 10:00:33 PM CDT
+update=Sun 16 Oct 2016 12:14:06 PM CDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=lib/pic18f25k50
+LibName31=lib/esd
