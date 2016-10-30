@@ -1,4 +1,4 @@
-update=Sun 16 Oct 2016 12:14:06 PM CDT
+update=Sat 29 Oct 2016 07:33:28 PM CDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,4 @@ LibName28=contrib
 LibName29=valves
 LibName30=lib/pic18f25k50
 LibName31=lib/esd
+LibName32=lib/common_choke
