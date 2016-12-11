@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XC6206P332MR-G
+D Linear Regulator +3.3V
+K POWER REGUL, 3.3V, SOT-23-3
+$ENDCMP
+#
+#End Doc Library
